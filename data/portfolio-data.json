@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "title": "Jane Doe | Product Designer",
+    "description": "Portfolio website showcasing product design work and skills"
+  },
+  "personal": {
+    "name": "Jamshaid Ahmed",
+    "title": "Web Developer",
+    "location": "Rahim Yar Khan, Punjab",
+    "avatar": "/confident-professional.png",
+    "email": "jamshaidahmed954@example.com",
+    "phone": "+92 3019405836",
+    "workingHours": "Monday - Friday, 9am - 5pm PST",
+    "availableForWork": true,
+    "badges": ["Web Design", "UI/UX", "Development"],
+    "social": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/Jamshaidahmed954/",
+        "icon": "Github"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/jamshaid-ahmed-8053a72a4/",
+        "icon": "Linkedin"
+      },
+      {
+        "platform": "Twitter",
+        "url": "#",
+        "icon": "Twitter"
+      },
+      {
+        "platform": "Instagram",
+        "url": "#",
+        "icon": "Instagram"
+      }
+    ]
+  },
+  "about": {
+    "bio": "I craft user-focused web applications that solve real-world problems. With over 5 years of experience in front-end development and UX research, I'm passionate about building accessible, responsive, and ethically designed digital experiences.",
+    "focus": [
+      "Building intuitive and accessible web applications",
+      "Collaborating with cross-functional teams to deliver scalable solutions",
+      "Integrating user feedback and research into front-end development"
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "Native",
+        "level": 80,
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Urdu",
+        "proficiency": "Fluent",
+        "level": 100,
+        "flag": "🇪🇸"
+      },
+      {
+        "name": "Punjabi",
+        "proficiency": "Intermediate",
+        "level": 60,
+        "flag": "🇫🇷"
+      }
+    ],
+    "interests": [
+      "Design Systems",
+      "Web Accessibility",
+      "Responsive UI Development",
+      "CSS Animation & Motion Design",
+      "Creative Coding & Photography"
+    ]
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "Credentials",
+      "href": "#credentials"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    },
+    {
+      "label": "Projects",
+      "href": "#projects"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Front-End Development ",
+
+      "period": "2024 - Present",
+      "description": "Contributed to the development of key product features in a collaborative team environment. Helped implement a component-based design system using React, which improved design consistency and reduced front-end development time. Supported user research and testing to inform UI improvements and enhance user experience.",
+
+      "achievements": [
+        "Collaborated on rebuilding the main dashboard in React, improving load time and boosting user engagement by 35%",
+        "Contributed to front-end development for 3 feature rollouts, helping increase user retention by 25%",
+        "Assisted in establishing a reusable component library, enhancing consistency and speeding up the development process"
+      ],
+      "technologies": ["React", "Tailwind CSS", "Bootstrap", "TypeScript"]
+    },
+
+    {
+      "title": "back-End Development",
+
+      "period": "2024 - present",
+      "description": "Worked closely with cross-functional teams to build and maintain robust backend services for web and mobile applications. Developed RESTful APIs, integrated databases, and contributed to improving system performance and scalability.",
+      "achievements": [
+        "Developed and maintained backend APIs for 10+ client projects in fintech, healthcare, and e-commerce sectors",
+        "Optimized database queries and backend logic, improving application performance and reducing response time by up to 30%",
+        "Contributed to API documentation and improved integration workflows for frontend teams"
+      ],
+      "technologies": ["Node.js", "Express", "MongoDB", "REST APIs"]
+    },
+    {
+      "title": "GitHub For version Control",
+
+      "period": "2023 - 2025",
+      "description": "Utilized GitHub for version control and collaboration on design projects. Managed repositories, conducted code reviews, and facilitated team workflows.",
+      "achievements": [
+        "Managed version control for 10+ design projects, ensuring smooth collaboration and code integrity",
+        "Conducted code reviews and provided feedback to improve code quality and maintainability",
+        "Implemented GitHub Actions for automated testing and deployment workflows"
+      ],
+      "technologies": ["GitHub", "Version Control", "Collaboration"]
+    }
+  ],
+  "credentials": {
+    "certifications": [
+      {
+        "name": "intern as front-End Developer",
+        "issuer": "curelogics",
+        "date": "2024",
+        "logo": "/nng-logo.png"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Computer Science",
+        "institution": "Islamia University Bahawalpur",
+        "year": "2021-2025 ",
+        "logo": "https://www.iub.edu.pk/uploads/901/logo/greyheader.png"
+      },
+      {
+        "degree": "Intermediate Pre-Engineering",
+        "institution": "MTB college SDK",
+        "year": "2019-2021",
+        "logo": "https://mtb.edu.pk/wp-content/uploads/2024/07/mtb-logo-png.png"
+      }
+    ],
+    "skills": [
+      "HTML5",
+      "CSS3 / SCSS",
+      "JavaScript (ES6+)",
+      "React.js",
+      "Next.js",
+      "Tailwind CSS",
+      "Responsive Web Design",
+      "Component-Based Architecture"
+    ]
+  },
+  "technicalSkills": {
+    "design": [
+      "HTML5",
+      "CSS3 / SCSS",
+      "JavaScript (ES6+)",
+      "React.js",
+      "Next.js",
+      "Tailwind CSS",
+      "Responsive Web Design",
+      "Component-Based Architecture"
+    ],
+    "development": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST APIs",
+      "JWT Authentication",
+      "Mongoose",
+      "Postman"
+    ],
+    "uxMethods": [
+      "Git & GitHub",
+      "VS Code",
+      "Figma",
+      "Chrome DevTools",
+      "Vercel",
+      "Netlify"
+    ],
+    "softSkills": [
+      "Team Leadership",
+      "Project Management",
+      "Client Communication",
+      "Mentoring",
+      "Presentations"
+    ]
+  }
+}

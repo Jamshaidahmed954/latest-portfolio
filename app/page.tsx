@@ -62,7 +62,6 @@ export default function Home() {
                       >
                         <ExperienceCard
                           title={experience.title}
-                          company={experience.company}
                           period={experience.period}
                           description={experience.description}
                           achievements={experience.achievements}
